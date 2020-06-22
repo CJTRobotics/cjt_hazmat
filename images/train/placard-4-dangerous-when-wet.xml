@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>placard-4-dangerous-when-wet.png</filename>
+	<path>/home/oskar/workspace/cjt_hazmat/hazmat/images/train/placard-4-dangerous-when-wet.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4582</width>
+		<height>4582</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Dangerous When Wet</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>1</ymin>
+			<xmax>4582</xmax>
+			<ymax>4582</ymax>
+		</bndbox>
+	</object>
+</annotation>

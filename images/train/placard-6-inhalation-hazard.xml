@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>placard-6-inhalation-hazard.png</filename>
+	<path>/home/oskar/workspace/cjt_hazmat/hazmat/images/train/placard-6-inhalation-hazard.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4583</width>
+		<height>4583</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Inhalation Hazard</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>1</ymin>
+			<xmax>4582</xmax>
+			<ymax>4582</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,74 @@
+item {
+    id: 1
+    name: 'Explosives'
+}
+
+item {
+    id: 2
+    name: 'Blasting Agents'
+}
+
+item {
+    id: 3
+    name: 'Flammable Gas'
+}
+
+item {
+    id: 4
+    name: 'NON-Flammable Gas'
+}
+
+item {
+    id: 5
+    name: 'Oxygen'
+}
+
+item {
+    id: 6
+    name: 'Fuel/Oil'
+}
+
+item {
+    id: 7
+    name: 'Dangerous When Wet'
+}
+
+item {
+    id: 8
+    name: 'Flammable Solid'
+}
+
+item {
+    id: 9
+    name: 'Spontaneously Combustible'
+}
+
+item {
+    id: 10
+    name: 'Oxidizer'
+}
+
+item {
+    id: 11
+    name: 'Organic Peroxide'
+}
+
+item {
+    id: 12
+    name: 'Inhalation Hazard'
+}
+
+item {
+    id: 13
+    name: 'Poison'
+}
+
+item {
+    id: 14
+    name: 'Radioactive'
+}
+
+item {
+    id: 15
+    name: 'Corrosive'
+}
